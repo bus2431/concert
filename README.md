@@ -51,7 +51,7 @@
 ![image](https://user-images.githubusercontent.com/85874443/122223814-8000b380-ceee-11eb-93a3-3c69d431226b.png)
 
 ### 부적격 이벤트 제거
-![image](https://user-images.githubusercontent.com/85874443/122223889-8ee76600-ceee-11eb-9cd0-970c00b43cef.png)
+![image](https://user-images.githubusercontent.com/84304047/122864306-5963d200-d35f-11eb-81ca-8e99204ca930.png)
 
 ### 액터/커맨드 부착
 ![image](https://user-images.githubusercontent.com/85874443/122223935-97d83780-ceee-11eb-9e5c-7b3cb1b13978.png)
